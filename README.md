@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Designer </h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sidharthism&show_icons=true" alt="@sidharthism"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sidharthism&show_icons=true&count_private=true" alt="@sidharthism"/>
 </p>
 
 <p align="center">
